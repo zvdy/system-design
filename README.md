@@ -3,26 +3,6 @@
 A practical guide to system design patterns with real-world Python implementations and ASCII diagrams.
 Includes hands-on examples of databases, caching, replication, sharding, stream processing, and more.
 
-## 📚 Repository Structure
-
-```
-.
-├── src/
-│   └── examples/
-│       ├── database_fundamentals/    # Core database concepts
-│       ├── data_serialization/       # Data serialization frameworks
-│       ├── replication/              # Database replication patterns
-│       ├── sharding/                 # Database sharding strategies
-│       ├── batch_processing/         # Batch processing systems
-│       ├── stream_processing/        # Stream processing patterns
-│       ├── storage_types/           # Alternative storage solutions
-│       ├── caching/                 # Caching strategies
-│       └── load_balancing/          # Load balancing patterns
-├── docs/                           # Detailed documentation
-├── assets/                         # ASCII diagrams and resources
-└── tests/                         # Unit and integration tests
-```
-
 ## 🔍 Topics Covered
 
 ### 1. Database Fundamentals
